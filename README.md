@@ -12,5 +12,6 @@ All the work has been done following a methodology (the Lightweight IBM Cloud Ga
 - Model Definition
 
 One of the interest of the project was to use the **Apache Spark** service of the IBM cloud.
+
 The presentation of the capstone project is available on [Youtube](https://youtu.be/okrR7Krd9z4).
 
