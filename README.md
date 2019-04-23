@@ -1,6 +1,8 @@
 # Kaggle
 Work done for [Kaggle](http://www.kaggle.com) competitions. 
 
+[>>> Kaggle profile](https://www.kaggle.com/jtbontinck)
+
 ## LANL-Earthquake-Prediction [>>>](https://github.com/jxtrbtk/kaggle/tree/master/LANL-Earthquake-Prediction)
 Forecasting earthquakes for Los Alamos Nationl Laboratory.
 
